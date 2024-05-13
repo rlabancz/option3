@@ -1,0 +1,11 @@
+{
+  "name": "OCR_server",
+  "version": "0.0.0",
+  "devDependencies": {
+    "socket.io": "~1.2.0"
+  },
+  "dependencies": {
+    "express": "~4.10.0",
+    "body-parser": "~1.9.2"
+  }
+}
